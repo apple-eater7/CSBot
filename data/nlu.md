@@ -1,0 +1,244 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hellooo
+- helloooo
+- heyo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- hey dude
+- hello it is me again
+- what up
+- hi there
+- hi
+- hi friend
+- hi there it's me
+- good evening
+- good morning
+- good afternoon
+
+## intent:goodbye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+
+## intent:affirm
+- yes
+- of course
+- sure
+- yeah
+- ok
+- cool
+- go for it
+- yep
+- yep, will do thank you
+- I'm sure I will!
+- oh awesome!
+- Yes
+- accept
+- I accept
+- i accept
+- ok i accept
+- I changed my mind. I want to accept it
+- ok cool
+- alright
+- i will!
+- ok, I behave now
+- yop
+- oki doki
+- yes please
+- yes please!
+- jo
+- yep if i have to
+- amayzing
+- confirm
+- nice
+- coolio
+- definitely yes without a doubt
+- yas
+- yup
+- perfect
+- sure thing
+- absolutely
+- Oh, ok
+- Sure
+- hm, i'd like that
+- ja
+- sure!
+- yes i accept
+- Sweet
+- amazing!
+- how nice!
+- cool!
+- yay
+- yes accept please
+- great
+- oh cool
+- yes
+- fine
+
+## intent:deny
+- no
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- no sorry
+- No, not really.
+- nah not for me
+- nah
+- no and no again
+- no go
+- no thanks
+- decline
+- deny
+- i decline
+- never mind
+- nevermind
+- no I haven't decided yet
+- I don't want to give it to you
+- I'm not going to give it to you
+- no i don't accept
+- no!!!!
+- no you did it wrong
+- no i can't
+- i'm not sure
+- I don't want to tell you
+- not really
+- i guess it means - no
+- i don't want to
+- i don't want either of those
+- nah thanks
+- neither of these
+
+## intent:want_to_buy
+- I want to buy a thing
+- I would like to buy product
+- I wish to purchase this product
+- I wanna buy some thing
+- i want to buy this thing
+- i wish to purchase this product
+- purchase product
+- i want this thing
+- i want to buy another product
+- i wish to purchase more
+- I would like to buy one more product
+- i want to buy one more product
+- i wish to purchase another
+- I would like to buy more products
+
+## intent:want_product
+- I want to buy an [MI Phone](product)
+- I would like to buy [i phone](product)
+- I wish to purchase a [mi phone](product)
+- I wanna buy [i Phone](product)
+- i want to buy [iphone](product)
+- i wish to purchase this [i phone](product)
+- purchase [mi Phone](product)
+- i want this [Mi Phone](product)
+- I want an [MI Phone](product)
+- I want to purchase an [mi phone](product)
+- I wish to buy [Iphone](product)
+
+## intent:more_info
+- I want to know more about this thing
+- I wish to learn more about this
+- Tell me more about this product
+- I want information about this product
+- I need further info on this product
+- give me more info on this
+- tell me more
+- could you tell me more
+- give me more information please
+- could you please give me some more information
+- i want more information
+
+## intent:more_info_on_product
+- I want to know more on [MI Phone](product)
+- I would like more info on [i phone](product)
+- I wish to learn about a [mi phone](product)
+- I wanna know more about [i Phone](product)
+- Tell me about [iphone](product)
+- i wish to know about this [i phone](product)
+- Tell me more about [mi Phone](product)
+- i need further info on [Mi Phone](product)
+- I want an [MI Phone](product)
+- I want to purchase an [mi phone](product)
+- I wish to buy [Iphone](product)
+
+## intent:product_name
+- [IPhone](product)
+- [MIPhone](product)
+- [I Phone](product)
+- [MI Phone](product)
+- [i Phone](product)
+- [mi Phone](product)
+- [i phone](product)
+- [mi phone](product)

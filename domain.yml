@@ -1,0 +1,51 @@
+slots:
+  product:
+    type: text
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - want_to_buy
+  - want_product
+  - more_info
+  - more_info_on_product
+  - product_name
+
+entities:
+  - product
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_product_list
+- utter_buy_success
+- utter_what_else
+- utter_more_info
+- utter_default
+
+templates:
+  utter_greet:
+  - text: "Hi! I am CSBot. I can help you with purchasing products and getting additional information about products. What can I do for you today?"
+
+  utter_goodbye:
+  - text: "Thank you for using CSBot. Goodbye!"
+
+  utter_product_list:
+  - text: "We have two products available:
+  1) IPhone
+  2) MIPhone
+  Please type the name of the product selected by you"
+
+  utter_buy_success:
+  - text: "Purchase successful!"
+
+  utter_what_else:
+  - text: "Is there anything else I can do for you?"
+
+  utter_more_info:
+  - text: "You can find additional information about {product} and many other products here: https://www.theiphonewiki.com/wiki/List_of_iPhones"
+
+  utter_default:
+  - text: "I'm sorry. I did not understand."
